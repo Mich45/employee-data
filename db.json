@@ -195,19 +195,5 @@
   "email": "mhrusr@berkeley.edu",
   "department": "Research and Development",
   "role": "Marketing Manager"
-}, {
-  "id": 29,
-  "first_name": "Aile",
-  "last_name": "Scawen",
-  "email": "ascawens@soundcloud.com",
-  "department": "Research and Development",
-  "role": "Software Engineer III"
-}, {
-  "id": 30,
-  "first_name": "Fabio",
-  "last_name": "Iddons",
-  "email": "fiddonst@drupal.org",
-  "department": "Human Resources",
-  "role": "Chemical Engineer"
 }]  
 }
