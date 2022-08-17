@@ -1,4 +1,6 @@
-[{
+{ 
+"employees": [
+  {
   "id": 1,
   "first_name": "Chas",
   "last_name": "Carn",
@@ -348,4 +350,6 @@
   "email": "hboriston1d@wordpress.org",
   "department": "Services",
   "role": "Sales Associate"
-}]
+},
+]
+}
